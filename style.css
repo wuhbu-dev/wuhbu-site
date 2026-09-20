@@ -5,6 +5,8 @@ main { max-width: 680px; margin: 0 auto; padding: 48px 24px 80px; line-height: 1
 h1 { font-size: 2.2rem; margin: 0 0 8px; }
 h2 { font-size: 1.25rem; margin-top: 2rem; }
 .badge { display:inline-block; background:var(--grape); color:#fff; border-radius:999px; padding:4px 14px; font-weight:700; font-size:.9rem; }
+.store { display:inline-block; background:var(--ink); color:#fff; border-radius:14px; padding:12px 22px; font-weight:700; font-size:1.05rem; text-decoration:none; margin: 8px 0 20px; }
+.store:hover { background:#1f1f30; }
 nav a { margin-right: 18px; color: var(--grape); font-weight: 700; text-decoration: none; }
 footer { margin-top: 48px; font-size: .9rem; color: #777; }
 .blob { width: 120px; height: 120px; margin: 0 0 16px; }
